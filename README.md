@@ -6,7 +6,7 @@ It gets seed and sentence from input. Then edits the vowels and letters.
 
 # Try first
 Thanks to vercel to host our project.
-https://langauge-gen.vercel.app
+https://language-gen.vercel.app
 
 
 # Dependencies
