@@ -1,3 +1,6 @@
+# DOESN'T WORK ANYMORE
+Seeding system no more works as it should be. Please don't use this script. It ks not maintained anymore.
+
 # LanguageGen
 Language Generator with seed system. With right vowels and speakable.
 
